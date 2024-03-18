@@ -11,3 +11,16 @@ We introduce EXAMS-V, a new challenging multi-discipline multimodal multilingual
 Our evaluation results demonstrate that this is a challenging dataset, which is difficult even for advanced vision--text models such as GPT-4V and Gemini; this underscores the inherent complexity of the dataset and its significance as a future benchmark.
 
 ![image](./images/language_samples-1.png)
+
+## Citation
+If you find this useful in your research, please consider citing it:
+```
+@misc{das2024examsv,
+      title={EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models}, 
+      author={Rocktim Jyoti Das and Simeon Emilov Hristov and Haonan Li and Dimitar Iliyanov Dimitrov and Ivan Koychev and Preslav Nakov},
+      year={2024},
+      eprint={2403.10378},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
