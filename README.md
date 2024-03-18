@@ -12,6 +12,24 @@ Our evaluation results demonstrate that this is a challenging dataset, which is 
 
 ![image](./images/language_samples-1.png)
 
+## Dataset Statistics
+
+| *Language* |*Family* | *Grade* | *\# Subjects* | *\# Questions* | *\# visual Q.* | *\# text Q.* |
+|-------------------|-----------------|------------------------------------|------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------------|
+| English           |  Germanic        | 11, 12                             | 4                                        | 724                                       | 181                                       | 543                                     |
+| Chinese           | Sino-Tibetan    | 8-12                               | 6                                        | 2,635                                     | 1,991                                     | 644                                     |
+| French            | Romance         | 12                                 | 3                                        | 439                                       | 50                                        | 389                                     |
+| German            | Germanic        | 12                                 | 5                                        | 819                                       | 144                                       | 675                                     |
+| Italian           | Romance         | 12                                 | 11                                       | 1,645                                     | 292                                       | 1,353                                   |
+| Arabic            |  Semitic         | 4-12                               | 6                                        | 823                                       | 117                                       | 706                                     |
+| Polish            | Slavic          | 12                                 | 1                                        | 2,511                                     | 422                                       | 2,089                                   |
+| Hungarian         | Finno-Ugric     | 12                                 | 6                                        | 3,801                                     | 495                                       | 3,306                                   |
+| Bulgarian         |Slavic          | 4, 12                              | 4                                        | 2,132                                     | 435                                       | 1,697                                   |
+| Croatian          | Slavic          | 12                                 | 13                                       | 3,969                                     | 700                                       | 3,269                                   |
+| Serbian           | Slavic          | 12                                 | 11                                       | 1,434                                     | 259                                       | 1,175                                   |
+
+![fig](./images/figure_data_dist-1.png)
+
 ## Citation
 If you find this useful in your research, please consider citing it:
 ```
