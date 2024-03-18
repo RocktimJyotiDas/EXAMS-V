@@ -14,6 +14,8 @@ Our evaluation results demonstrate that this is a challenging dataset, which is 
 
 ## Dataset Statistics
 
+The following table shows the statistics of EXAMS-V dataset. The languages are ordered from high-resource to low-resource languages. Here, \# visual Q. refers to questions with multimodal context and \# text Q. refers to text only questions.
+
 | *Language* |*Family* | *Grade* | *\# Subjects* | *\# Questions* | *\# visual Q.* | *\# text Q.* |
 |-------------------|-----------------|------------------------------------|------------------------------------------|-------------------------------------------|-------------------------------------------|-----------------------------------------|
 | English           |  Germanic        | 11, 12                             | 4                                        | 724                                       | 181                                       | 543                                     |
@@ -29,6 +31,7 @@ Our evaluation results demonstrate that this is a challenging dataset, which is 
 | Serbian           | Slavic          | 12                                 | 11                                       | 1,434                                     | 259                                       | 1,175                                   |
 
 <!-- ![fig](./images/figure_data_dist-1.png) -->
+The following is a pie-diagram showing the distribution of subject and languages in the dataset.
 <div style="text-align: center;">
 <img src="./images/figure_data_dist-1.png" alt="Image Description" width="500"/>
 </div>
