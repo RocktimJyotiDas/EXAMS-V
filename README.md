@@ -32,6 +32,7 @@ Our evaluation results demonstrate that this is a challenging dataset, which is 
 <div style="text-align: center;">
 <img src="./images/figure_data_dist-1.png" alt="Image Description" width="500"/>
 </div>
+
 ## Citation
 If you find this useful in your research, please consider citing it:
 ```
