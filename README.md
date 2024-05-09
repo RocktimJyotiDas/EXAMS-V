@@ -1,10 +1,10 @@
 # EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models
 
-[Rocktim Jyoti Das](https://rocktimjyotidas.github.io/), Simeon Emilov Hristov, [Haonan Li](https://haonan-li.github.io/), Dimitar Iliyanov Dimitrov,  [Ivan Koychev](https://scholar.google.com/citations?user=o5YAI9wAAAAJ&hl=en), [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/)
+<p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+📄 <a href="https://arxiv.org/abs/2403.10378" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
+🤗 <a href="https://huggingface.co/datasets/Rocktim/EXAMS-V" target="_blank" style="margin-left: 10px">Dataset</a> 
+</p>
 
-Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi \& Sofia University
-
-This is arxiv link for the EXAMS-V paper can be found [here](https://arxiv.org/pdf/2403.10378.pdf).
 
 ## Introduction
 We introduce EXAMS-V, a new challenging multi-discipline multimodal multilingual exam benchmark for evaluating vision language models. It consists of  20,932 multiple-choice questions across 20 school disciplines covering natural science, social science, and other miscellaneous studies, e.g.,~religion, fine arts, business, etc. EXAMS-V includes a variety of multimodal features such as text, images, tables, figures, diagrams, maps, scientific symbols, and equations. The questions come in 11 languages from 7 language families. Unlike existing benchmarks, EXAMS-V is uniquely curated by gathering school exam questions from various countries, with a variety of education systems. This distinctive approach calls for intricate reasoning across diverse languages and relies on region-specific knowledge. Solving the problems in the dataset requires advanced perception and joint reasoning over the text and the visual content of the image. 
@@ -35,9 +35,6 @@ The following is a pie-diagram showing the distribution of subject and languages
 <div style="text-align: center;">
 <img src="./images/figure_data_dist-1.png" alt="Image Description" width="500"/>
 </div>
-
-## Dataset
-The dataset can be found at this [huggingface page](https://huggingface.co/datasets/Rocktim/EXAMS-V).
 
 ## Citation
 If you find this useful in your research, please consider citing it:
